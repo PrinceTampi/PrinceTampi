@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Tampi</h1>
-<h3 align="center">Software Developer | Web Scraping Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Developer | Programmer Enthusiast | Problem Solver</h3>
 
 <p align="center">
 I enjoy building scalable web applications, automation systems, and data-driven solutions.  
@@ -10,8 +10,8 @@ Passionate about software engineering, critical thinking, and turning complex pr
 
 ## 🚀 About Me
 - 🔭 Currently working on **web automation & scraping systems**
-- 🌱 Learning more about **system design & scalable backend architecture**
-- 💡 Interested in **AI, automation, and data engineering**
+- 🌱 Learning more about **system design & scalable backend architecture and game development**
+- 💡 Interested in **AI, automation, and game development**
 - 🎯 Goal: Build impactful products that solve real-world problems
 
 ---
@@ -56,4 +56,4 @@ Passionate about software engineering, critical thinking, and turning complex pr
 ---
 
 ## ✨ Motto
-> "Code is not just about making things work — it's about solving problems elegantly."
+> "Yang penting enjoy aja"
